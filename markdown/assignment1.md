@@ -186,8 +186,23 @@ print(n)
 
 ## 2. 学习总结和收获
 
-==如果作业题目简单，有否额外练习题目，比如：OJ“计概2024fall每日选做”、CF、LeetCode、洛谷等网站题目。==
-
+额外选做：
+0901	174A. Sum	implementation	800	https://codeforces.com/problemset/problem/1742/A
+1154A. Restoring Three Numbers	math	800	https://codeforces.com/problemset/problem/1154/A
+0831	427A. Police Recruits	implementation	800	https://codeforces.com/problemset/problem/427/A
+151A. Soft Drinking	implementation, math	800	https://codeforces.com/problemset/problem/151/A
+0830	1335A. Candies and Two Sisters	math	800	https://codeforces.com/problemset/problem/1335/A
+1352A. Sum of Round Numbers	implementation, math	800	https://codeforces.com/problemset/problem/1352/A
+0829	1328A. Divisibility Problem	math	800	https://codeforces.com/problemset/problem/1328/A
+996A. Hit the Lottery	dp, greedy	800	https://codeforces.com/problemset/problem/996/A
+0828	263A. Beautiful Matrix	implementation	800	http://codeforces.com/problemset/problem/263/A
+266A. Stones on the Table	implementation	800	http://codeforces.com/problemset/problem/266/A
+0827	231A. Team	bruteforce, greedy	800	http://codeforces.com/problemset/problem/231/A
+236A. Boy or Girl	brute force, implementation, strings	800	https://codeforces.com/problemset/problem/236/A
+0826	112A. Petya and Strings	implementation, strings	800	http://codeforces.com/problemset/problem/112/A
+158A. Next Round	*special problem, implementation	800	http://codeforces.com/problemset/problem/158/A
+4A. Watermelong	brute force, math	800	http://codeforces.com/problemset/problem/4/A
+200B. Drinks	implementation, math	800	https://codeforces.com/problemset/problem/200/B
 
 
 
