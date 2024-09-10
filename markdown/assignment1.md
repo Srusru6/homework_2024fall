@@ -34,7 +34,7 @@ print(p)
 
 代码运行截图
 
-![](C:\Users\15143\Desktop\pic\1.png)
+![error!](\pic\1-1)
 
 
 
