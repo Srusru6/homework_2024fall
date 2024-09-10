@@ -63,8 +63,7 @@ else:
 
 代码运行截图 
 
-![]()
-
+![error!](../pic/1-2.png)
 
 
 ### 50A. Domino piling
@@ -89,7 +88,7 @@ print(m*n//2)
 
 代码运行截图
 
-
+![error!](../pic/1-3.png)
 
 
 
@@ -114,7 +113,7 @@ print(int(((n-1)//a+1)*((m-1)//a+1)))
 
 代码运行截图
 
-
+![error!](../pic/1-4.png)
 
 
 
@@ -149,7 +148,7 @@ print(o)
 代码运行截图
 
 
-
+![error!](../pic/1-5.png)
 
 
 ### 231A. Team
@@ -181,7 +180,7 @@ print(n)
 
 代码运行截图
 
-
+![error!](../pic/1-6.png)
 
 
 
