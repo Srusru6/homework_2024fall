@@ -74,7 +74,7 @@ greedy, math, 800, http://codeforces.com/problemset/problem/50/A
 
 思路：
 
-
+多米诺骨牌最佳摆法是先横着摆满每排，若奇数列则在最后一列竖着摆，若偶数则直接完成
 
 ##### 代码
 
@@ -100,7 +100,7 @@ math, 1000, https://codeforces.com/problemset/problem/1/A
 
 思路：
 
-
+先处理横边竖边完全覆盖分别最少需要的砖数，再相乘即为答案
 
 ##### 代码
 
@@ -125,7 +125,7 @@ implementation, strings, 1000, http://codeforces.com/problemset/problem/112/A
 
 思路：
 
-
+先将两个字符串分别改为全小写，再逐位比较
 
 ##### 代码
 
