@@ -34,7 +34,7 @@ print(p)
 
 代码运行截图
 
-![error!](main/pic/1-1.png)
+![error!](../pic/1-1.png)
 
 
 
